@@ -1,0 +1,60 @@
+$(document).ready(function(){
+
+})
+$(selector).event(effect)
+==================================
+jquery course start :
+
+what is uQuery?
+	1.jquery is javascript library
+	2.write less do more.
+	3.jquery greatly simplifies javascript programming 
+	4.The purpose of jquery is to make it much it much easier to use javascript
+	on your website
+	5.jquery takes a lot of common tasks that require many lines of javascript code
+	to accomplish,and wraps them into methods that you can call with a single line
+	code.
+
+
+1.Purpose of jquery ==
+	a.simplify HTML DOM tree traversal and manipulation,as well as  event handling
+	css animation ,and ajax.
+	b.jquery will run exactly the same in all major browsers.(browser compatibility)
+
+should you learn jquery?
+
+
+jquery syntax=====:
+	1.select html element
+	2.perform jquery function or action on selected element.
+
+	$(".selector").action() jquery syntax 
+
+jquery selector 
+	
+	tag(tagname)
+	class(.className)
+	id(#idName)
+	*(selecting full document)
+
+jquery event:
+	
+	click,dbclick,mouseenter,mouseleave,hover,on(using for multiple
+	 event on same elemnt)
+	$("#selector").on({
+		click:function(){
+	
+	},
+	$("#selector").on({
+		click:function(){
+	
+	},
+	})
+	
+
+effect in jquery :
+	
+	
+
+
+

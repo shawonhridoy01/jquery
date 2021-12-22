@@ -1,0 +1,103 @@
+.my-custom-counter{
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    color: #ffffff;
+    padding: 50px 0;
+    margin-bottom: 50px;
+}
+
+.inner-counter{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    font-size: 40px;
+    margin-left: 30px;
+    border: 10px solid snow;
+    padding: 30px 20px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    
+
+}
+.my-custom-counter span{
+    font-size: 40px;
+}
+
+/* second counter start here ================================== */
+
+.second-counter-up{
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+    padding: 40px 0;
+    margin-bottom: 50px;
+}
+.second-inner-counter-up{
+        width: 200px;
+        height: 200px;
+        background: rgba( 255, 255, 255, 0.3 );
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 7.5px );
+        -webkit-backdrop-filter: blur( 7.5px );
+        border-radius: 10px;
+        border: 1px solid rgba( 255, 255, 255, 0.18 );
+        display: inline-block;
+        margin-left: 40px;
+        padding: 50px 40px;
+        font-weight: bold;
+        text-align: center;
+        /* color: white; */
+        color: black;
+        margin-bottom: 40px;
+}
+
+
+/* second counter end ================================== */
+
+
+
+
+/* three counter start ================================== */
+.counter-up-section-three{
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B50 0%, #FF252570 74%),url("images/image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 50px 0;
+
+}
+.counter-up-section-three .inner-counter-section-three{
+    display: inline-block;
+    max-width: 250px;
+    background: rgba( 255, 255, 255, 0.65 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 19.5px );
+    -webkit-backdrop-filter: blur( 19.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 20px;
+    margin-left: 20px;
+    text-align: center;
+    color: #002D62;
+    margin-bottom: 40px;
+}
+.counter-up-section-three .inner-counter-section-three .fab{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.counter-up-section-three .inner-counter-section-three h2{
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.counter-up-section-three .inner-counter-section-three h6{
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.image-div{
+    width: 250px;
+    object-fit: cover;
+    height: 300px;
+}
+
+/* three counter end ================================== */
